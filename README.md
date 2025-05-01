@@ -26,7 +26,7 @@ SnipStyle is a sleek and modern CSS snippet UI toolkit built with React. It help
 - **Frontend**: React.js, CSS3
 - **Routing**: React Router
 - **Icons**: React Icons / Flaticon
-- **Font**: Google Fonts (Sora)
+- **Font**: Google Fonts (Fira Code)
 
 ---
 
